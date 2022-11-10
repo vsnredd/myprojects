@@ -1,0 +1,15 @@
+body{
+   background-color: black;
+}
+.clock{
+    position:absolute;
+    top:50%;
+    left:35%;
+    transform: translateX(-100%) translateY(-100);
+    color:white;
+    font-size:60px;
+    font-family:"Lucida Sans", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    padding left: 20%;
+
+}
